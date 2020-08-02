@@ -1,0 +1,7 @@
+{
+  "name": "owoify",
+  "version": "1.0.0",
+  "description": "Commands:<br>.owo, .uwu, .uvu<br>Code taken from the owoify-js package",
+  "author": "Lil Sizzurp",
+  "license": "MIT"
+}
